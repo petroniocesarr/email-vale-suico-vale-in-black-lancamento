@@ -17,6 +17,6 @@ Estrutura e rodapé: template aprovado V4P_6-EMKT_NOV_NOVEMBRO-COMECA-BOMBANDO (
 
 ## Links
 - Motor de reservas: https://book.omnibees.com/hotel/8164?lang=pt-BR&currencyId=16&version=4 (o mesmo do e-mail aprovado)
-- WhatsApp: 11 5031-3000, com a mensagem "Olá, tenho interesse nas ofertas Vale in Black" (a mesma da LP)
+- WhatsApp: 11 5031-3000, com a mensagem "Olá, vim através do email e gostaria de saber mais da promoção Vale In Black."
 - Cards, foto da Missão, hero e loft: LP Vale in Black
 - UTM: utm_source=rdstation, utm_medium=email, utm_campaign=vale_in_black_lancamento, utm_content por bloco
